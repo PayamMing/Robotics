@@ -1,2 +1,2 @@
 # Robotics
-robotic project at Sigma
+Robotic project at Sigma
