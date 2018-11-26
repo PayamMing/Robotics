@@ -2277,7 +2277,7 @@ LOAD c:/program files (x86)/atollic/truestudio for stm32 9.1.0/armtools/bin/../l
                 0x000002e5       0x22 c:/program files (x86)/atollic/truestudio for stm32 9.1.0/armtools/bin/../lib/gcc/arm-atollic-eabi/6.3.1/armv7e-m/fpu/crtn.o
 OUTPUT(MyNewProject.elf elf32-littlearm)
 
-.debug_info     0x00000000     0x66e6
+.debug_info     0x00000000     0x66e5
  .debug_info    0x00000000      0x654 Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.o
  .debug_info    0x00000654      0x74c Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.o
  .debug_info    0x00000da0      0x628 Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.o
@@ -2285,10 +2285,10 @@ OUTPUT(MyNewProject.elf elf32-littlearm)
  .debug_info    0x00002060      0xb1a Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.o
  .debug_info    0x00002b7a     0x1c74 Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.o
  .debug_info    0x000047ee     0x10a5 Utilities\STM32F4-Discovery\stm32f4_discovery_audio_codec.o
- .debug_info    0x00005893      0x693 src\main.o
- .debug_info    0x00005f26       0x8f src\startup_stm32f40xx.o
- .debug_info    0x00005fb5      0x154 src\stm32f4xx_it.o
- .debug_info    0x00006109      0x5dd src\system_stm32f4xx.o
+ .debug_info    0x00005893      0x692 src\main.o
+ .debug_info    0x00005f25       0x8f src\startup_stm32f40xx.o
+ .debug_info    0x00005fb4      0x154 src\stm32f4xx_it.o
+ .debug_info    0x00006108      0x5dd src\system_stm32f4xx.o
 
 .debug_abbrev   0x00000000      0xfa2
  .debug_abbrev  0x00000000      0x191 Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dac.o

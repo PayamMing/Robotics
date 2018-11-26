@@ -171,7 +171,6 @@ void TM_PWM_Init(__IO uint32_t duty_cycle_right, __IO uint32_t duty_cycle_left) 
 
 void Delay(__IO uint32_t nCount){
 	  while(nCount--){
-
 	  }
 }
 
@@ -216,7 +215,7 @@ int main(void) {
 
 	while (1) {
 
-		//button_state = GPIO_ReadInputDataBit(GPIOA, GPIO_Pin_0);
+		// button_state = GPIO_ReadInputDataBit(GPIOA, GPIO_Pin_0);
 		// Move forward STM_EVAL_PBGetState(BUTTON_USER)
 		//if (button_state) {
 			//Motor 1 forward
